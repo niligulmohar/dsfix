@@ -1,4 +1,8 @@
 *.sdf
 *.user
 *.opensdf
+Debug
 Release
+/.vs
+*.VC.opendb
+*.VC.db
